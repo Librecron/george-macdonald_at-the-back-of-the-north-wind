@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-06-24T20:57:44Z</dc:date>
+		<meta property="dcterms:modified">2019-06-24T20:57:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,12 +36,12 @@
 		<dc:description id="description">A young boy encounters the North Wind and goes on several adventures with her.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;At the Back of the North Wind&lt;/i&gt; is one of George MacDonalds masterworks, published in 1871. In it, a sweet and kind young boy named Diamond meets the North Wind. He befriends her and the two go on several adventures, where Diamond sees her do many great and terrible things.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;At the Back of the North Wind&lt;/i&gt; is a childrens book that would pique the interest and minds of adults. Its exterior belies complex theological and philosophical questions, especially those of theodicy. Theodicy is the attempt to answe the question of why a benevolent God allows evil to exist.
+			&lt;p&gt;&lt;i&gt;At the Back of the North Wind&lt;/i&gt; is a childrens book that would pique the interest and minds of adults. Its exterior belies complex theological and philosophical questions, especially those of theodicy. Theodicy is the attempt to answe the question of why a benevolent God allows evil to exist.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/225</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">90851</meta>
+		<meta property="se:reading-ease.flesch">89.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_at-the-back-of-the-north-wind</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
